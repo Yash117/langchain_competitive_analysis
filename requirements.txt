@@ -1,1 +1,12 @@
-
+langchain
+langchain-openai
+langgraph
+streamlit
+transformers
+sentence_transformers
+rank_bm25
+faiss-cpu
+beautifulsoup4
+requests
+playwright
+scikit-learn
