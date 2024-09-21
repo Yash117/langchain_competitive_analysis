@@ -1,1 +1,15 @@
-
+{
+  "retrieval_iterations": 3,
+  "data_sources": [
+    "news_articles",
+    "market_reports",
+    "blogs",
+    "research_papers"
+  ],
+  "default_focus_areas": [
+    "pricing",
+    "market_share",
+    "growth_strategy",
+    "funding"
+  ]
+}
